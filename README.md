@@ -2,7 +2,7 @@
 
 🎓 2nd Year B.Tech CSE Student  
 🏫 Amity School of Technology  
-📍 New Delhi, India  
+📍 Delhi NCR, India  
 
 ---
 
@@ -16,6 +16,19 @@ Currently focused on:
 - Improving DSA
 - Exploring Deep Learning
 - Building structured web projects
+
+---
+## 🎓 Education
+
+**B.Tech in Computer Science Engineering**  
+Amity School of Technology  
+(2nd Year)
+
+**Class XII – Holy Child Public School**  
+82%
+
+**Class X – Holy Child Public School**  
+88%
 
 ---
 
