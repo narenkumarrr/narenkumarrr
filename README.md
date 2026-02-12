@@ -96,11 +96,9 @@ Work Done:
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=narenkumarrr&show_icons=true&theme=default&cache_seconds=86400" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=narenkumarrr&show_icons=true&theme=transparent&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=narenkumarrr&layout=compact&theme=transparent)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narenkumarrr&layout=compact&cache_seconds=86400" />
 
 
 ---
