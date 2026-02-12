@@ -96,9 +96,12 @@ Work Done:
 
 ## 📊 GitHub Stats
 
-![Naren's GitHub stats](https://github-readme-stats.vercel.app/api?username=narenkumarrr&show_icons=true&theme=default)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=narenkumarrr&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=narenkumarrr&show_icons=true&theme=transparent&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=narenkumarrr&layout=compact&theme=transparent)
+
 
 ---
 
