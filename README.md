@@ -94,12 +94,12 @@ Work Done:
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Current Focus
 
-<img src="https://github-readme-stats.vercel.app/api?username=narenkumarrr&show_icons=true&theme=default&cache_seconds=86400" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narenkumarrr&layout=compact&cache_seconds=86400" />
-
+- Strengthening Data Structures & Algorithms  
+- Exploring Deep Learning architectures  
+- Improving backend fundamentals  
+- Building structured GitHub projects  
 
 ---
 
