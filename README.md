@@ -1,126 +1,41 @@
-# Hi, I'm Naren Kumar 👋
+<div align="center">
 
-🎓 2nd Year B.Tech CSE Student  
-🏫 Amity School of Technology  
-📍 Delhi NCR, India  
-📞 +91 9625321459
----
+# 👨‍💻 Naren Kumar
+**B.Tech CSE Student @ Amity School of Technology**
 
-## 🚀 About Me
-
-I am a Computer Science student with strong interest in Artificial Intelligence, Deep Learning, and Software Development.
-
-I enjoy building projects, understanding algorithms deeply, and strengthening my problem-solving skills through Data Structures and Java.
-
-Currently focused on:
-- Improving DSA
-- Exploring Deep Learning
-- Building structured web projects
-
----
-## 🎓 Education
-
-**B.Tech in Computer Science Engineering**  
-Amity School of Technology  
-(2nd Year)
-
-**Class XII – Holy Child Public School**  
-82%
-
-**Class X – Holy Child Public School**  
-88%
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narenkumarr/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/narenkumarrr)
+[![Mail](https://img.shields.io/badge/Contact-Naren-blue?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919625321459)
 
 ---
 
-## 🎓 Certifications
+### 🎓 Education & Location
+**2nd Year B.Tech CSE** | **Amity School of Technology**
+📍 Delhi NCR, India | 📞 [+91 9625321459](tel:+919625321459)
 
-- 🏅 **Fundamentals of Deep Learning – NVIDIA (Jan 2026)**
-- 🏅 **Delta – Full Stack Web Development – Apna College (Dec 2025)**
+</div>
 
----
+## 🚀 Professional Snapshot
 
-## 💻 Projects
+I am a Computer Science student bridging the gap between **Software Development** and **Deep Learning**. I focus on building scalable logic through Java/DSA and implementing neural architectures to solve real-world data problems.
 
-### 🎵 Spotify Frontend Clone
-- Built using HTML and CSS
-- Responsive structured UI
-- Clean layout and component-based design
-
----
-
-### 🤖 Deep Learning Projects (Kaggle Datasets)
-
-Projects:
-- Bird Classification using ANN  
-- Churn Modelling using ANN  
-- Fake News Detection  
-
-Work Done:
-- Data preprocessing
-- ANN model implementation
-- Model training & evaluation
-- Understanding overfitting and validation
+### 🛠 Tech Stack & Tools
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | `Java` `Python` `C++` `C` |
+| **AI/ML** | `Deep Learning` `ANN` `NLP` `Kaggle` |
+| **Web Dev** | `HTML5` `CSS3` `Full Stack Fundamentals` |
+| **Tools** | `Git` `GitHub` `Jupyter` `VS Code` |
 
 ---
 
-### ☕ Java & DSA Practice
-- Strong understanding of OOP
-- Practicing Data Structures & Algorithms
-- Improving logical problem-solving
+## 📈 Recent Milestones
+* 🏅 **NVIDIA Certified:** Fundamentals of Deep Learning (Jan 2026)
+* 💻 **Full Stack:** Completed Delta Web Dev at Apna College (Dec 2025)
+* 🏆 **Hackathons:** Cyber Cup 2025 & HackOClock 2.0 Participant
 
 ---
 
-## 🛠 Technical Skills
-
-### Programming Languages
-- Java
-- Python
-- C++
-- C
-
-### Core CS Concepts
-- Data Structures
-- Algorithms
-- Object-Oriented Programming (OOP)
-
-### AI & ML
-- Artificial Intelligence (Basics)
-- Deep Learning
-- Artificial Neural Networks
-
-### Web Development
-- HTML
-- CSS
-- Full Stack Fundamentals
-
-### Tools
-- Git
-- GitHub
-- Jupyter Notebook
-
----
-
-## 🏆 Hackathons
-
-- 🏅 Cyber Cup 2025
-- 🏅 HackOClock 2.0
-
----
-
-## 📌 Current Focus
-
-- Strengthening Data Structures & Algorithms  
-- Exploring Deep Learning architectures  
-- Improving backend fundamentals  
-- Building structured GitHub projects  
-
----
-
-## 📫 Connect With Me
-
-🔗 GitHub: https://github.com/narenkumarrr  
-🔗 LinkedIn: https://www.linkedin.com/in/narenkumarr/
-
----
-
-⭐ Consistent learning. Strong fundamentals. Building every day.
+<div align="center">
+  <sub>Built with ❤️ by Naren | Consistent learning. Strong fundamentals. Building every day.</sub>
+</div>
