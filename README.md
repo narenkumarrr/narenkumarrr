@@ -37,7 +37,7 @@ I am a Computer Science student with a strong interest in **Artificial Intellige
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | `Java` `Python` `C++` `C` |
-| **AI/ML** | `Deep Learning` `ANN` `NLP` `Kaggle Datasets` |
+| **AI/ML** | `Deep Learning` `ANN` `Kaggle Datasets` |
 | **Core CS** | `Data Structures` `Algorithms` `OOP` |
 | **Web Dev** | `HTML5` `CSS3` `Full Stack Fundamentals` |
 | **Tools** | `Git` `GitHub` `Jupyter Notebook` `VS Code` |
