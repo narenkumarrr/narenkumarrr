@@ -1,35 +1,34 @@
-
 <div align="center">
 
 # 👨‍💻 Naren Kumar
 **B.Tech CSE Student @ Amity School of Technology**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narenkumarr/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/narenkumarrr)
-[![Call](https://img.shields.io/badge/Call-Naren-blue?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919625321459)
+📍 **Delhi NCR, India** 📞 **+91 9625321459** | 📧 **narenkumar.cse@gmail.com**
 
 ---
 
-### 🎓 Education & Location
-**2nd Year B.Tech CSE** | **Amity School of Technology** 📍 Delhi NCR, India | 📞 [+91 9625321459](tel:+919625321459)
+### 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narenkumarr/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/narenkumarrr) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:narenkumar.cse@gmail.com)
+
+---
 
 </div>
 
 ## 🚀 About Me
-I am a Computer Science student with a strong interest in **Artificial Intelligence**, **Deep Learning**, and **Software Development**. I enjoy building projects, understanding algorithms deeply, and strengthening my problem-solving skills through **Data Structures** and **Java**.
+I am a Computer Science student with a strong interest in **Artificial Intelligence**, **Deep Learning**, and **Software Development**. I focus on building scalable logic through **Java/DSA** and implementing neural architectures to solve real-world data problems.
 
 ---
 
 ## 🏛 Academic Background
-* **B.Tech in Computer Science Engineering** – Amity School of Technology (2nd Year)
-* **Class XII – Holy Child Public School** – **82%**
-* **Class X – Holy Child Public School** – **88%**
+* 🎓 **B.Tech in Computer Science Engineering** – Amity School of Technology (2nd Year)
+* 🏫 **Class XII – Holy Child Public School** – **82%**
+* 🏫 **Class X – Holy Child Public School** – **88%**
 
 ---
 
 ## 🏅 Certifications
-* **Fundamentals of Deep Learning** – NVIDIA (Jan 2026)
-* **Delta – Full Stack Web Development** – Apna College (Dec 2025)
+* 🛡️ **Fundamentals of Deep Learning** – NVIDIA (Jan 2026)
+* 💻 **Delta – Full Stack Web Development** – Apna College (Dec 2025)
 
 ---
 
@@ -37,7 +36,7 @@ I am a Computer Science student with a strong interest in **Artificial Intellige
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | `Java` `Python` `C++` `C` |
-| **AI/ML** | `Deep Learning` `ANN` `Kaggle Datasets` |
+| **AI/ML** | `Deep Learning` `ANN` `NLP` `Kaggle Datasets` |
 | **Core CS** | `Data Structures` `Algorithms` `OOP` |
 | **Web Dev** | `HTML5` `CSS3` `Full Stack Fundamentals` |
 | **Tools** | `Git` `GitHub` `Jupyter Notebook` `VS Code` |
@@ -49,7 +48,7 @@ I am a Computer Science student with a strong interest in **Artificial Intellige
 ### 🤖 Deep Learning (Kaggle-Based)
 * **Bird Classification:** Implemented using Artificial Neural Networks (ANN).
 * **Churn Modelling:** Predicting customer retention using ANN architectures.
-* **Fake News Detection:** Data preprocessing and model training to identify misinformation.
+* **Fake News Detection:** Data preprocessing and model training.
 * *Key Focus:* Managing overfitting, validation, and data cleaning.
 
 ### 🎵 Spotify Frontend Clone
@@ -76,5 +75,5 @@ I am a Computer Science student with a strong interest in **Artificial Intellige
 ---
 
 <div align="center">
-  
+  <sub>**Consistent learning. Strong fundamentals. Building every day.**</sub>
 </div>
