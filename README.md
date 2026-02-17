@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # 👨‍💻 Naren Kumar
@@ -5,37 +6,75 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narenkumarr/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/narenkumarrr)
-[![Mail](https://img.shields.io/badge/Contact-Naren-blue?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919625321459)
+[![Call](https://img.shields.io/badge/Call-Naren-blue?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919625321459)
 
 ---
 
 ### 🎓 Education & Location
-**2nd Year B.Tech CSE** | **Amity School of Technology**
-📍 Delhi NCR, India | 📞 [+91 9625321459](tel:+919625321459)
+**2nd Year B.Tech CSE** | **Amity School of Technology** 📍 Delhi NCR, India | 📞 [+91 9625321459](tel:+919625321459)
 
 </div>
 
-## 🚀 Professional Snapshot
-
-I am a Computer Science student bridging the gap between **Software Development** and **Deep Learning**. I focus on building scalable logic through Java/DSA and implementing neural architectures to solve real-world data problems.
-
-### 🛠 Tech Stack & Tools
-| Area | Technologies |
-| :--- | :--- |
-| **Languages** | `Java` `Python` `C++` `C` |
-| **AI/ML** | `Deep Learning` `ANN` `NLP` `Kaggle` |
-| **Web Dev** | `HTML5` `CSS3` `Full Stack Fundamentals` |
-| **Tools** | `Git` `GitHub` `Jupyter` `VS Code` |
+## 🚀 About Me
+I am a Computer Science student with a strong interest in **Artificial Intelligence**, **Deep Learning**, and **Software Development**. I enjoy building projects, understanding algorithms deeply, and strengthening my problem-solving skills through **Data Structures** and **Java**.
 
 ---
 
-## 📈 Recent Milestones
-* 🏅 **NVIDIA Certified:** Fundamentals of Deep Learning (Jan 2026)
-* 💻 **Full Stack:** Completed Delta Web Dev at Apna College (Dec 2025)
-* 🏆 **Hackathons:** Cyber Cup 2025 & HackOClock 2.0 Participant
+## 🏛 Academic Background
+* **B.Tech in Computer Science Engineering** – Amity School of Technology (2nd Year)
+* **Class XII – Holy Child Public School** – **82%**
+* **Class X – Holy Child Public School** – **88%**
+
+---
+
+## 🏅 Certifications
+* **Fundamentals of Deep Learning** – NVIDIA (Jan 2026)
+* **Delta – Full Stack Web Development** – Apna College (Dec 2025)
+
+---
+
+## 🛠 Technical Skills
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `Java` `Python` `C++` `C` |
+| **AI/ML** | `Deep Learning` `ANN` `NLP` `Kaggle Datasets` |
+| **Core CS** | `Data Structures` `Algorithms` `OOP` |
+| **Web Dev** | `HTML5` `CSS3` `Full Stack Fundamentals` |
+| **Tools** | `Git` `GitHub` `Jupyter Notebook` `VS Code` |
+
+---
+
+## 💻 Projects
+
+### 🤖 Deep Learning (Kaggle-Based)
+* **Bird Classification:** Implemented using Artificial Neural Networks (ANN).
+* **Churn Modelling:** Predicting customer retention using ANN architectures.
+* **Fake News Detection:** Data preprocessing and model training to identify misinformation.
+* *Key Focus:* Managing overfitting, validation, and data cleaning.
+
+### 🎵 Spotify Frontend Clone
+* Responsive UI built using **HTML** and **CSS**.
+* Focus on clean layout and component-based design.
+
+### ☕ Java & DSA Practice
+* Strong focus on **Object-Oriented Programming (OOP)**.
+* Continuous practice of algorithms to improve logical efficiency.
+
+---
+
+## 🏆 Hackathons & Recognition
+* 🏅 **Cyber Cup 2025**
+* 🏅 **HackOClock 2.0**
+
+---
+
+## 📌 Current Focus
+* 🚀 Strengthening **Data Structures & Algorithms**.
+* 🧠 Exploring advanced **Deep Learning** architectures.
+* 🏗 Building structured, industry-ready **GitHub** projects.
 
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by Naren | Consistent learning. Strong fundamentals. Building every day.</sub>
+  
 </div>
