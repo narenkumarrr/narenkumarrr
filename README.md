@@ -3,12 +3,12 @@
 # 👨‍💻 Naren Kumar
 **B.Tech CSE Student @ Amity School of Technology**
 
-📍 **Delhi NCR, India** 📞 **+91 9625321459** | 📧 **narenkumar.cse@gmail.com**
+📍 **Delhi NCR, India** | 📞 **+91 9625321459** | 📧 **kumarnaren0109@gmail.com**
 
 ---
 
 ### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narenkumarr/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/narenkumarrr) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:narenkumar.cse@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narenkumarr/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/narenkumarrr) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kumarnaren0109@gmail.com)
 
 ---
 
