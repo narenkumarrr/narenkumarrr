@@ -36,7 +36,7 @@ I am a Computer Science student with a strong interest in **Artificial Intellige
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | `Java` `Python` `C++` `C` |
-| **AI/ML** | `Deep Learning` `ANN` `NLP` `Kaggle Datasets` |
+| **AI/ML** | `Deep Learning` `ANN` `Kaggle Datasets` |
 | **Core CS** | `Data Structures` `Algorithms` `OOP` |
 | **Web Dev** | `HTML5` `CSS3` `Full Stack Fundamentals` |
 | **Tools** | `Git` `GitHub` `Jupyter Notebook` `VS Code` |
@@ -44,6 +44,12 @@ I am a Computer Science student with a strong interest in **Artificial Intellige
 ---
 
 ## 💻 Projects
+
+### 🏙️ CivicSens (HackOClock 2.0)
+* Co-developed a full-stack platform that automates the gap between a citizen reporting a hazard and a city fixing it.
+* Handled real-time state across a geospatial ledger while maintaining a high-fidelity "Industrial HUD" interface.
+* **Tech Stack:** Next.js 14, Supabase (PostgreSQL), and Vercel.
+* Built over a 50+ hour sprint in collaboration with a teammate.
 
 ### 🤖 Deep Learning (Kaggle-Based)
 * **Bird Classification:** Implemented using Artificial Neural Networks (ANN).
